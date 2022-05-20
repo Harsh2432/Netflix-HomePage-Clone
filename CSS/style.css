@@ -191,6 +191,7 @@ img {
     margin-top: 2rem;
     border-collapse: collapse;
     border-spacing: 0;
+    overflow: hidden;
 }
 
 .table thead th {
@@ -390,10 +391,5 @@ img {
 
     #tab-2-content .tab-2-content-bottom {
         grid-template-columns: 1fr;
-    }
-
-    #table {
-        overflow-y: hidden;
-        overflow-x: auto;
     }
 }
