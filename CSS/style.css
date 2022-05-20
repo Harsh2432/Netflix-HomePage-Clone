@@ -191,7 +191,7 @@ img {
     margin-top: 2rem;
     border-collapse: collapse;
     border-spacing: 0;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .table thead th {
