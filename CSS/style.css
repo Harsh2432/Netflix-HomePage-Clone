@@ -186,12 +186,15 @@ img {
     text-align: center;
 }
 
+tab-3-table {
+    overflow-x: auto;
+}
+
 .table {
     width: 100%;
     margin-top: 2rem;
     border-collapse: collapse;
     border-spacing: 0;
-    overflow: auto;
 }
 
 .table thead th {
